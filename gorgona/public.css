@@ -1,0 +1,147 @@
+.tk {
+	COLOR: #585958; FONT-FAMILY: "verdana"; FONT-SIZE: 11px; LINE-HEIGHT: 15px
+}
+.tk A {
+	COLOR: #585958; TEXT-DECORATION: none
+}
+.tk A:hover {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+.tk-s {
+	COLOR: #585958; FONT-FAMILY: "verdana"; FONT-SIZE: 10px; LINE-HEIGHT: 13px
+}
+.tk-s A {
+	COLOR: #585958; TEXT-DECORATION: none
+}
+.tk-s A:hover {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+.tk-ss {
+	COLOR: #585958; FONT-FAMILY: "verdana"; FONT-SIZE: 10px; LINE-HEIGHT: 11px
+}
+.tk-ss A {
+	COLOR: #585958; TEXT-DECORATION: none
+}
+.tk-m {
+	COLOR: #585958; FONT-FAMILY: "verdana"; FONT-SIZE: 12px; LINE-HEIGHT: 16px
+}
+.tk-white {
+	COLOR: #ffffff; FONT-FAMILY: "verdana"; FONT-SIZE: 11px; LINE-HEIGHT: 15px
+}
+.tk-white A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.tk-white A:hover {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+.tk-white-m {
+	COLOR: #ffffff; FONT-FAMILY: "verdana"; FONT-SIZE: 12px; LINE-HEIGHT: 16px
+}
+.tk-white-s {
+	COLOR: #ffffff; FONT-FAMILY: "verdana"; FONT-SIZE: 10px; LINE-HEIGHT: 13px
+}
+.tk-white-s A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.tk-white-s A:hover {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+.tk-blue2 {
+	COLOR: #007b89; FONT-FAMILY: "verdana"; FONT-SIZE: 11px; LINE-HEIGHT: 15px
+}
+.tk-black {
+	COLOR: #000000; FONT-FAMILY: "verdana"; FONT-SIZE: 11px; LINE-HEIGHT: 15px
+}
+.tk-black A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.tk-black A:hover {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+.tk-black-s {
+	COLOR: #000000; FONT-FAMILY: "verdana"; FONT-SIZE: 10px; LINE-HEIGHT: 13px
+}
+.tk-black-s A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.tk-black-s A:hover {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+.tk-green {
+	COLOR: #07abc6; FONT-FAMILY: "verdana"; FONT-SIZE: 11px; LINE-HEIGHT: 15px
+}
+.tk-green A {
+	COLOR: #07abc6; TEXT-DECORATION: none
+}
+.tk-green A:hover {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+.tk-green-m {
+	COLOR: #07abc6; FONT-FAMILY: "verdana"; FONT-SIZE: 12px; LINE-HEIGHT: 16px
+}
+.tk-orange {
+	COLOR: #ff7200; FONT-FAMILY: "verdana"; FONT-SIZE: 11px; LINE-HEIGHT: 15px
+}
+.tk-orange-s {
+	COLOR: #ff7200; FONT-FAMILY: "verdana"; FONT-SIZE: 10px; LINE-HEIGHT: 13px
+}
+.tk-blue {
+	COLOR: #003997; FONT-FAMILY: "verdana"; FONT-SIZE: 12px; LINE-HEIGHT: 20px
+}
+.tk-blue A {
+	COLOR: #003997; TEXT-DECORATION: none
+}
+.tk-blue A:hover {
+	COLOR: #003997; TEXT-DECORATION: none
+}
+.s-title {
+	COLOR: #000000; FONT-FAMILY: "verdana"; FONT-SIZE: 12px; FONT-WEIGHT: bold; LINE-HEIGHT: 20px
+}
+.m-title {
+	COLOR: #000000; FONT-FAMILY: "verdana"; FONT-SIZE: 16px; FONT-WEIGHT: bold; LINE-HEIGHT: 20px
+}
+.big-title {
+	COLOR: #000000; FONT-FAMILY: "verdana"; FONT-SIZE: 18px; FONT-WEIGHT: bold; LINE-HEIGHT: 20px
+}
+.white-big-title {
+	COLOR: #ffffff; FONT-FAMILY: "verdana"; FONT-SIZE: 18px; FONT-WEIGHT: bold; LINE-HEIGHT: 20px
+}
+.orange-big-title {
+	COLOR: #ff6e00; FONT-FAMILY: "verdana"; FONT-SIZE: 18px; FONT-WEIGHT: bold; LINE-HEIGHT: 20px
+}
+.green-big-title {
+	COLOR: #07abc6; FONT-FAMILY: "verdana"; FONT-SIZE: 18px; FONT-WEIGHT: bold; LINE-HEIGHT: 20px
+}
+.ngreen-big-title {
+	COLOR: #009865; FONT-FAMILY: "verdana"; FONT-SIZE: 18px; FONT-WEIGHT: bold; LINE-HEIGHT: 20px
+}
+.locate {
+	COLOR: #000000; FONT-FAMILY: "verdana"; FONT-SIZE: 10px
+}
+.locate A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.locate A:hover {
+	COLOR: #07abc6; TEXT-DECORATION: none
+}
+.r-box01 {
+	COLOR: #ffffff; FONT-FAMILY: "verdana"; FONT-SIZE: 11px; LETTER-SPACING: -0.1em
+}
+.r-box01 A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.r-box01 A:hover {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+.r-box02 {
+	COLOR: #585958; FONT-FAMILY: "verdana"; FONT-SIZE: 10px; LETTER-SPACING: -0.1em
+}
+.ss {
+	COLOR: #585958; FONT-FAMILY: "verdana"; FONT-SIZE: 9px; LINE-HEIGHT: 22px
+}
+.ss A {
+	COLOR: #585958; TEXT-DECORATION: none
+}
+.ss A:hover {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}

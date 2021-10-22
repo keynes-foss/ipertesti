@@ -1,0 +1,75 @@
+/* CSS Document */
+body {
+	font-family: "Trebuchet MS", "Mahsuri Sans", Arial, sans-serif;
+	font-size: 10pt;
+	font-style: normal;
+	text-decoration: none;
+	background-color: #6190D4;
+	margin: 0px;
+	padding: 0px;
+	background-image: url(immagini/sfondo.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+a:link {
+	color: #0033FF;
+	text-decoration: none;
+}
+a:visited {
+	color: #0033FF;
+	text-decoration: none;
+}
+a:hover {
+	color: #0033FF;
+	text-decoration: underline;
+}
+a:active {
+	color: #FF9900;
+	text-decoration: underline;
+}
+/* #contenitore {
+	width: 798px;
+	margin: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(images/sfondocontenitore.png);
+} */
+#titolo {
+	border: 0px;
+	margin: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 796px;
+	height: 139px;
+	text-align: right;
+	background-image: url(immagini/sfondotitolo.png);
+}
+#menu {
+	border: 0px;
+	margin: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 810px;
+	height: 35px;
+	text-align: center;
+}
+#contenuto {
+	border: 0px;
+	margin: 0px;
+	padding: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 710px;
+	text-align: left;
+	background-image: url(immagini/sfondocontenuto.png);
+}
+#footer {
+	border: 0px;
+	margin: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 750px;
+	text-align: center;
+	background-image: url(immagini/barrafooter.png);
+	font-size: 9px;
+}
